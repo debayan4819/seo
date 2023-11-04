@@ -1,0 +1,6 @@
+Meta tags are HTML elements that provide information about a web page to search engines and users. Some of the benefits of using meta tags are:
+
+- They can help improve the ranking and relevance of a web page for certain keywords and queries.
+- They can help attract and persuade users to click on a web page by displaying a descriptive and compelling title and summary on the search engine results pages (SERPs).
+- They can help avoid duplicate content issues by specifying the canonical URL and the preferred language of a web page.
+- They can help enhance the user experience and accessibility of a web page by defining the character encoding, viewport settings, and content type.
